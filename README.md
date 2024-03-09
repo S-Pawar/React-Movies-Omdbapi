@@ -2,4 +2,7 @@
  
 
 Fetches Movies using omdbapi and displays them.
-can also save favourtites and display them.
+
+Can also save favourtites and retreive them from local storage.
+
+Hosted at https://react-movies-omdbapi.vercel.app/
